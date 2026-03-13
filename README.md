@@ -26,7 +26,7 @@ Criação de um Servidor por Meio da Linguagem Java
 #
 
 ### 💻 Métodologia Usada
-- Java
+-  Python 
 - VS code
   
  Realização ↓
