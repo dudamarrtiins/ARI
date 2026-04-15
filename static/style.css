@@ -1,0 +1,42 @@
+body{
+   background: url("https://i.pinimg.com/originals/4c/98/03/4c98036872d68742d0a882e944e7b359.jpg")center/cover;
+   height: 100vh;
+   display: flex;
+   margin: 0;
+   align-items: center;
+   justify-content: center;
+}
+
+form{
+    background: rgba(144, 213, 253, 0.8);
+    width: 200px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+h1{
+    font-family: 'Courier New',
+Courier, monospace;
+color: aliceblue;
+font-size: medium;
+align-items: center;
+justify-content: center;
+
+}
+
+
+input,button{
+    width: 100%;
+    margin-top: 10px;
+    border: none;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+
+
+
+
+
+
+}
