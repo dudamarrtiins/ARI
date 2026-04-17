@@ -73,6 +73,30 @@ GET no -Postman
   
   
   POST no -Postman
+
   
+# Atividade Prática 2️⃣
+
+ ## 🌐Objetivo
+Criação de um Servidor Simples por Meio da Linguagem Java
+
+#
+
+### 💻 Métodologia Usada
+-  Python 
+- VS code
+  
+ Realização ↓
+
+ <img width="516" height="544" alt="image" src="https://github.com/user-attachments/assets/69a38a54-13b5-4429-9986-d624f4c24198" />
+
+ <img width="648" height="384" alt="image" src="https://github.com/user-attachments/assets/4e73206b-a779-4c66-ae7a-0b4423515f11" />
+
+ <img width="958" height="669" alt="image" src="https://github.com/user-attachments/assets/a0a5303c-4cdc-4bb7-b055-2009515bd1d7" />
+
+ <img width="1333" height="791" alt="4" src="https://github.com/user-attachments/assets/fec6eef4-ef2b-488c-af19-c34ad6782eac" />
+
+
+
 
 
