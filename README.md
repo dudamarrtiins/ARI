@@ -96,6 +96,7 @@ Criação de um Servidor Simples por Meio da Linguagem Java
 
  <img width="1333" height="791" alt="4" src="https://github.com/user-attachments/assets/fec6eef4-ef2b-488c-af19-c34ad6782eac" />
 
+<img width="226" height="159" alt="image" src="https://github.com/user-attachments/assets/eaccb2db-f153-4ea5-92f1-284b3d0b3ca6" />
 
 
 
